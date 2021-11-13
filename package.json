@@ -1,0 +1,13 @@
+{
+  "name": "grupal",
+  "version": "1.0.0",
+  "description": "Renzo Ibanez, Alberto Serruto, Jesus Ricardez",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Renzo Ibanez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {}
+}
